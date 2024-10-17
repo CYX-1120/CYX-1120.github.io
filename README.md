@@ -1,4 +1,4 @@
-## CYX的个人主页
+CYX的个人主页
 
 
 author: "陈宇翔 Yx Chen" 
