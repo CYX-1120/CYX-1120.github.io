@@ -1,7 +1,7 @@
 # Welcome！
 
 ## About me
-name：Chen yu xiang
+name：Yuxiang Chen
 
 ## Paper
 update...
